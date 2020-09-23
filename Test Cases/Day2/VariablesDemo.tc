@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VariablesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df27a2d9-b502-47a1-95fb-4aeb168a5557</testCaseGuid>
+   <variable>
+      <defaultValue>'Peter'</defaultValue>
+      <description></description>
+      <id>5358346e-2737-481d-b963-7b4b8b1eb5f5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
